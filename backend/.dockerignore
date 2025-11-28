@@ -1,0 +1,15 @@
+# dependencies
+node_modules
+npm-debug.log
+
+# environment & build files
+.env
+Dockerfile
+.dockerignore
+
+# version control
+.git
+.gitignore
+
+# misc
+README.md
